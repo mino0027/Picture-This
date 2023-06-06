@@ -42,18 +42,3 @@ img {
 
 /* my code */
 
-picture {
-  grid-area: p;
-}
-
-.title {
-  grid-area: t;
-  
-}
-
-.header {
-  grid-template-columns: repeat(2,1fr);
-  grid-template-areas: 
-    "t p"
-  ;
-}

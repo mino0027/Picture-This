@@ -32,6 +32,8 @@ h4 {
 
 img {
   display: block;
+  /*my code */
+  max-width: 100%;
 }
 
 @media (min-width: 960px) {
@@ -40,9 +42,3 @@ img {
   }
 }
 
-/* my code */
-
-img {
-  max-width: 100%;
-  
-}

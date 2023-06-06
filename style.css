@@ -42,3 +42,6 @@ img {
 
 /* my code */
 
+img {
+  max-width: 100%;
+}
